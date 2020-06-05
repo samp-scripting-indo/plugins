@@ -1,2 +1,2 @@
 # Plugins
-Plugins buatan anak bangsa/buatan dari member
+ List Plugins yang dibuat oleh member [SAMP-INDO] Lean Scripting/Mapping 
